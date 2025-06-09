@@ -51,6 +51,10 @@ npm run dev
 
 ---
 
-## 🧠 License
+## 🧑‍💻 Author
 
-MIT — use freely, build boldly.
+**Swadha Dwivedi**  
+Frontend Developer | Passionate about clean UI and intuitive UX  
+🔗 [LinkedIn](https://www.linkedin.com/in/swadhadwivedi)  
+📫 dswadha@gmail.com
+[GitHub Profile](https://github.com/swadhadwivedi)
